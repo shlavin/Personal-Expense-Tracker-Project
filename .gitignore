@@ -4,6 +4,7 @@ venv/
 ENV/
 env/
 .venv/
+.env
 
 # Python
 __pycache__/
@@ -42,4 +43,4 @@ media/
 .DS_Store
 
 # OS
-Thumbs.db
+Thumbs.db.env
